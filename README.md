@@ -3,7 +3,7 @@ Programas presentados en la tesis de maestría "Estudio de redes neuronales con 
 
 Presenta: &nbsp;
 
-**Lic. Matemáticas Saúl David Candelero Jiménez** &nbsp;
+**Lic. Saúl David Candelero Jiménez** &nbsp;
 
 Directores de tesis: &nbsp;
 
